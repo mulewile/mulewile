@@ -1,5 +1,8 @@
 ### Hello there 👋
 
+## About me
+
+I'm **William** and I come from a background of social sciences. I am passionate about technology, languages, history, politics, and many more. 
 <!--
 **mulewile/mulewile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
