@@ -9,8 +9,10 @@ I love learning new things and putting them to practice.
 ![alt]( https://github.com/mulewile/mulewile/blob/main/peanuts-schroeder.gif "Practice")
 
 
-- 🌱 I’m a new ![fish](https://www.icegif.com/fish-3-13/) currently learning Web Development at **neue fische.**
-- 📫 You can check out my [photography](https://youpic.com/photographer/mulewile/) page.
+- 🌱 I’m currently learning Web Development at **neue fische.**
+- 📫 You can check out my [photography](https://youpic.com/photographer/mulewile/) profile.
+
+
 <!--
 **mulewile/mulewile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
