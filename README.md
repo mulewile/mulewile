@@ -3,7 +3,11 @@
 ## About me
 
 I'm **William** and I come from a background of social sciences. I am passionate about technology, photography, languages, and many more. 
-I love learning new things and putting them to [**_practice!_**](https://tenor.com/view/peanuts-schroeder-practice-makes-perfect-piano-instrument-gif-5134467)
+I love learning new things and putting them to practice.
+
+
+![alt]( https://github.com/mulewile/mulewile/blob/main/peanuts-schroeder.gif "Practice")
+
 
 - 🌱 I’m a new ![fish](https://www.icegif.com/fish-3-13/) currently learning Web Development at **neue fische.**
 - 📫 You can check out my [photography](https://youpic.com/photographer/mulewile/) page.
