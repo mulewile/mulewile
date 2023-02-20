@@ -3,6 +3,7 @@
 ## About me
 
 I'm **William** and I come from a background of social sciences. I am passionate about technology, languages, history, politics, and many more. 
+I love learning new things and putting them to [**_practice!_**](https://tenor.com/view/peanuts-schroeder-practice-makes-perfect-piano-instrument-gif-5134467)
 <!--
 **mulewile/mulewile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
