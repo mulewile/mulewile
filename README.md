@@ -11,11 +11,11 @@ I love learning new things and putting them to practice.
 
 - 🌱 I’m currently learning Web Development at **neue fische.**
 - 📫 You can check out my [photography](https://youpic.com/photographer/mulewile/) profile.
-
+![](https://github.com/mulewile/github-stats/blob/master/generated/overview.svg)
 
 <!--
 **mulewile/mulewile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://github.com/mulewile/github-stats/blob/master/generated/overview.svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
