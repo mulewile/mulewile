@@ -15,7 +15,7 @@ I love learning new things and putting them to practice.
 
 <!--
 **mulewile/mulewile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://github.com/mulewile/github-stats/blob/master/generated/overview.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
