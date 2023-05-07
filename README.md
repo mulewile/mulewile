@@ -5,7 +5,8 @@
 I'm **William** and I come from a background of social sciences. I am passionate about technology, photography, languages, and many more. 
 I love learning new things and putting them to practice.
 
-### My Assistants
+---
+### Working with 👇
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-badge&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-badge&logo=github-actions&logoColor=white" />
@@ -20,13 +21,13 @@ I love learning new things and putting them to practice.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-badge&logo=Node.js&logoColor=white" />
 </p>
 
-
+---
 ![alt]( https://github.com/mulewile/mulewile/blob/main/peanuts-schroeder.gif "Practice")
 
 
-- 🌱 I’m currently learning Web Development at **neue fische,** and currently working on my Capstone Project.
-- 📫 You can check out my [photography](https://youpic.com/photographer/mulewile/) profile.
-
+- 📝 I’m currently learning Web Development at **neue fische,** and currently working on my Capstone Project.
+- 📸 You can check out my [photography](https://youpic.com/photographer/mulewile/) profile.
+---
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulewile)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mulewile)
