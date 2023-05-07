@@ -28,8 +28,8 @@ I love learning new things and putting them to practice.
 - 📫 You can check out my [photography](https://youpic.com/photographer/mulewile/) profile.
 
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulewile)](https://github.com/mulewile/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mulewile)](https://git.io/streak-stats)
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulewile)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mulewile)
 <!--
 **mulewile/mulewile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
