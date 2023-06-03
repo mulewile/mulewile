@@ -2,8 +2,8 @@
 
 ## About me
 
-I'm **William** and I come from a background of social sciences. I am passionate about technology, photography, languages, and many more. 
-I love learning new things and putting them to practice.
+I'm **Bill** and you can also call me **William**, a passionate and enthusiastic web developer with a fresh set of coding skills acquired from neuefische bootcamp. 
+I thrive on learning new things and putting them into practice, combining my love for technology, photography, and languages. 
 
 ---
 ### Working with 👇
@@ -25,7 +25,7 @@ I love learning new things and putting them to practice.
 ![alt]( https://github.com/mulewile/mulewile/blob/main/peanuts-schroeder.gif "Practice")
 
 
-- 📝 I’m currently learning Web Development at **neue fische,** and currently working on my Capstone Project.
+- 📝 I’m currently advancing my coding skills.
 - 📸 You can check out my [photography](https://youpic.com/photographer/mulewile/) profile.
 ---
 
