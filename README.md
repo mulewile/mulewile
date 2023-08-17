@@ -22,12 +22,18 @@ I thrive on learning new things and putting them into practice, combining my lov
 </p>
 
 ---
-![alt]( https://github.com/mulewile/mulewile/blob/main/peanuts-schroeder.gif "Practice")
+## Current Focus
 
+![Practice](https://github.com/mulewile/mulewile/blob/main/peanuts-schroeder.gif)
 
 - 📝 I’m currently advancing my coding skills.
-- 📸 You can check out my [photography](https://youpic.com/photographer/mulewile/) profile.
----
+- 📸 Check out my [photography](https://youpic.com/photographer/mulewile/) profile.
+
+## Language Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulewile)](https://github.com/mulewile/github-readme-stats)
+
+## GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mulewile)
 <!--
