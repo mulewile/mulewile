@@ -29,6 +29,9 @@ I'm **Bill**, also known as **William**, a passionate and enthusiastic web devel
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+## I speak
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulewile&hide_progress=true)
+
 ## Current Focus
 
 ![Practice](https://github.com/mulewile/mulewile/blob/main/peanuts-schroeder.gif)
