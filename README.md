@@ -16,18 +16,59 @@ I'm **Bill**, also known as **William**, a passionate and enthusiastic web devel
 
 ---
 
-## Technologies & Tools
+## Frontend
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+## Backend
+
+<p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="Perl" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+</p>
+
+---
+
+## Database
+
+<p align="center">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+---
+## Version Control
+<p align="center">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+---
+## Project Management
+
+<p align="center">
+  <strong>Kanban Boards:</strong>
+  <br>
+  <img alt="GitHub Kanban" src="https://img.shields.io/badge/GitHub_Kanban-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="GitLab Kanban" src="https://img.shields.io/badge/GitLab_Kanban-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+---
+
+## Package Manager
+
+<p align="center">
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="CPAN" src="https://img.shields.io/badge/CPAN-1A9EB3?style=for-the-badge&logo=perl&logoColor=white" />
+</p>
+
 
 ## I speak
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulewile&hide_progress=true)
