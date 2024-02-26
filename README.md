@@ -46,7 +46,6 @@ I'm **Bill**, also known as **William**, a passionate and enthusiastic web devel
 ## Version Control
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
