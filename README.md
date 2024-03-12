@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm **Bill**, also known as **William**, a passionate and enthusiastic web developer with a fresh set of coding skills acquired from the neuefische bootcamp. I thrive on learning new things and putting them into practice, combining my love for technology, photography, and languages.
+I'm Bill, also known as William, a passionate and enthusiastic web developer with a strong foundation in web development technologies. I possess a keen interest in continuous learning and applying my knowledge to practical projects. My diverse interests encompass technology, photography, and languages, which contribute to my well-rounded skillset.
 
 ---
 ## Languages
