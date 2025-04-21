@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Bill, also known as William, a passionate and enthusiastic web developer with a strong foundation in web development technologies. I possess a keen interest in continuous learning and applying my knowledge to practical projects. My diverse interests encompass technology, photography, and languages, which contribute to my well-rounded skillset.
+I'm Bill, a passionate and enthusiastic web developer with a strong foundation in web development technologies. I possess a keen interest in continuous learning and applying my knowledge to practical projects. My diverse interests encompass technology, photography, and languages, which contribute to my well-rounded skillset.
 
 ---
 ## Languages
